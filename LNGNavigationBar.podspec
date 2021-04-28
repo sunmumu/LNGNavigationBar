@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'LNGNavigationBar'
-  s.version      = '0.0.1'
+  s.version      = '0.0.2'
   s.summary      = '基于UIView的导航栏'
   s.homepage     = 'https://github.com/sunmumu/LNGNavigationBar'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
@@ -14,6 +14,6 @@ Pod::Spec.new do |s|
   s.source_files = 'LNGNavigationBar/**/*.swift'
   s.libraries = 'z'
   s.frameworks = 'UIKit', 'CoreFoundation'
-  s.dependency = 'SnapKit'
+  #s.dependency 'SnapKit'
 
 end
