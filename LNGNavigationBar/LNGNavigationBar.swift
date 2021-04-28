@@ -8,7 +8,7 @@
 import UIKit
 import SnapKit
 
-class LNGNavigationBar: UIView {
+public class LNGNavigationBar: UIView {
 
     var closeClosure: ((UIButton) -> ())?
     

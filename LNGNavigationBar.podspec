@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'LNGNavigationBar'
-  s.version      = '0.0.3'
+  s.version      = '0.0.4'
   s.summary      = '基于UIView的导航栏'
   s.homepage     = 'https://github.com/sunmumu/LNGNavigationBar'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
