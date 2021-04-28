@@ -1,0 +1,6 @@
+module Pods_LNGNavigationBar {
+  umbrella header "Pods-LNGNavigationBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
